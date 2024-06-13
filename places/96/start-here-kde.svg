@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg7" version="1.1" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 32 32">
+  <defs>
+    <style type="text/css" id="current-color-scheme">
+            .ColorScheme-Text {            color:#232629;        }
+            .ColorScheme-Highlight {            color:#3daee9;        }
+        </style>
+  </defs>
+    <g transform="translate(-46.085716,-1)" id="start-here-kde" >
+
+    <path 
+       class="ColorScheme-Highlight" 
+       fill="currentColor" 
+       id="rect1340-7-3" 
+       d="M 74.267534,5 C 73.058807,5 72.085716,5.973091 72.085716,7.181818 V 26.818182 C 72.085716,28.026909 73.058807,29 74.267534,29 h 4.363637 V 11.545455 h 8.727272 V 5 Z m 15.272727,0 v 24 h 4.363637 c 1.208727,0 2.181818,-0.973091 2.181818,-2.181818 V 7.181818 C 96.085716,5.973091 95.112625,5 93.903898,5 Z m -8.727272,8.727273 V 29 h 6.545454 V 13.727273 Z"
+    />
+    <rect
+       id="rect3343"
+       width="32"
+       height="32"
+
+       fill="none" 
+
+       x="68"
+       y="1" 
+    />
+
+  </g>
+</svg>
